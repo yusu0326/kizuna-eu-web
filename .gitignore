@@ -1,0 +1,9 @@
+node_modules
+dist
+.npm-cache
+dev-stdout.log
+dev-stderr.log
+KizunaEU
+denmark 1
+.github
+playground-note.txt
