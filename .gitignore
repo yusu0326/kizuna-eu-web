@@ -5,5 +5,7 @@ dev-stdout.log
 dev-stderr.log
 KizunaEU
 denmark 1
-.github
+.github/*
+!.github/workflows/
+!.github/workflows/**
 playground-note.txt
